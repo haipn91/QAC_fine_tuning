@@ -1,4 +1,4 @@
-Cấu trúc chung
+QCA Fine-Tuning Framework for Legal Document Retrieval
 
 QAC_fine_tuning/
 ├── data_preparation/
